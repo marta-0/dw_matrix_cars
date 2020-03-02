@@ -1,2 +1,3 @@
-# dw_matrix_cars
-Cars prices forecasting
+# Cars prices forecasting
+
+This project is a second part of Matrix - Transformation from DataWorkshop.
